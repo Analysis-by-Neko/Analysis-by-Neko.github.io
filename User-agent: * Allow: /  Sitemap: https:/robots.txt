@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://analysis-by-neko.github.io/sitemap.xml
